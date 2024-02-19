@@ -1,2 +1,3 @@
-# MyFirstWebsite.github.io
+# MyFirstWebsite
+
 Used for learning github stuff
